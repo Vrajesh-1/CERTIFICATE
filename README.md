@@ -3,6 +3,7 @@ Welcome to my Certification Repository!
 This repository contains all the certificates I have earned from various online platforms. It serves as a showcase of the courses, skills, and knowledge I have gained from platforms such as Coursera, NPTEL, and more.
 
 
+
 The main purpose of this repository is to:
 
 Showcase my achievements in various fields.
@@ -12,9 +13,11 @@ Maintain a record of the certifications I've earned.
 Provide easy access to my certificates for professional and educational purposes.
 
 
+
 Future Updates
 
 I will continue to add new certificates to this repository as I complete additional courses and expand my skillset. Make sure to check back regularly for new updates!
+
 
 
 Contact
