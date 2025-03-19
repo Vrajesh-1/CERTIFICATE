@@ -1,5 +1,3 @@
-My Certification Repository
-
 Welcome to my Certification Repository!
 
 This repository contains all the certificates I have earned from various online platforms. It serves as a showcase of the courses, skills, and knowledge I have gained from platforms such as Coursera, NPTEL, and more.
